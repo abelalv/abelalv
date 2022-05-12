@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Abel Alvarez</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <style>@import url('https://fonts.googleapis.com/css?family=Raleway:300');</style>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <!-- Latest compiled and minified CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="icon" href="./chevron-right-filled.png">
+
+  <!-- jQuery library -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+  <!-- Latest compiled JavaScript -->
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+  <script>
+    var darkMode = false;
+
+    function setDarkMode() {
+      darkMode = !darkMode;
+      console.log("setDarkMode, now: " + !darkMode);
+      var body = document.getElementById('particles-js');
+      if (darkMode) {
+        body.style.backgroundColor = "#000000";
+      } else {
+        body.style.backgroundColor = "#ffffff";
+      }
+      var darkModeIcon = document.getElementById('');
+      darkModeIcon.style.color = "#3B5998";
+    }
+  </script>
+</head>
+<body>
+<div id="particles-js">
+  <div id="text">
+  <div id="title">Abel Alvarez</div>
+  <div id="description">I'm Abel Alvarez, a professor of mathematics at  <a id='currentEmployer' title="Javeriana" href="https://www.javerianacali.edu.co/">Pontificia Javeriana in Cali</a><br></div>
+  <div id="links">
+        <a href="javascript:void(0);" onclick="setDarkMode()"><i class="far fa-moon fa-2x"></i></a>
+        <a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000652520" target="_blank"><i class="far fa-file fa-2x"></i></a>
+        <a href="./clases.html" title="Projects"><i class="far fa-folder-open fa-2x"></i></a>
+        <a href="https://www.linkedin.com/in/abel-alvarez-bustos/" title="LinkedIn"><i class="fab fa-linkedin-in fa-2x"></i></a>
+        <a href="https://github.com/abelalv" title="GitHub"><i class="fab fa-github fa-2x"></i></a>
+        <a href="mailto:abel.alvarez@javerianacali.edu.co" title="Email"><i class="far fa-envelope fa-2x"></i></a>
+        
+  </div>
+</div>
+<script>
+        $('#title').hide().delay(500).fadeIn(1500);
+        $('#description').hide().delay(1500).fadeIn(2000);
+        $('#links').hide().delay(1700).fadeIn(2000);
+</script>
+
+
+<!-- scripts -->
+<script src="particles.js"></script>
+<script src="js/app.js"></script>
+
+
+</body>
+</html>
