@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Personal Page",
+    "section": "",
+    "text": "Apuntes\n\n\n\n\n\n\n\n\n\n\n\nJan 23, 2023\n\n\nAbel Alvarez\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nFotos\n\n\n\n\n\n\n\n\n\n\n\nNov 28, 2022\n\n\nAbel Alvarez\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nNov 25, 2022\n\n\nAbel Alvarez\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "Bienvenido a mi blog. Aquí encontrarás información sobre mis proyectos y mis intereses. Espero que te guste. mama error"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Algunas foticos para distraerse",
+    "section": "",
+    "text": ". . ."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Abel Alvarez",
+    "section": "",
+    "text": "Professor Abel concentrates his research on mathematical modeling and computer methods for the numerical solution of fluid dynamic equations in heterogeneous porous media. His research focuses on the creation of novel numerical methods for solving hyperbolic partial differential equations, with applications to nonconventional one and two-dimensional transport systems. This type of research has numerous engineering applications, such as increased oil recovery, aquifer cleansing, and epidemic modeling."
+  },
+  {
+    "objectID": "posts/edo/index.html",
+    "href": "posts/edo/index.html",
+    "title": "Apuntes de ecuaciones diferenciales ordinarias",
+    "section": "",
+    "text": "En esta página encontraras algunos apuntes para la clase de ecuaciones diferenciales ordinarias."
+  }
+]
