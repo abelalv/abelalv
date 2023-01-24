@@ -4,7 +4,77 @@
     "href": "index.html",
     "title": "Personal Page",
     "section": "",
-    "text": "Apuntes\n\n\n\n\n\n\n\n\n\n\n\nJan 23, 2023\n\n\nAbel Alvarez\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nFotos\n\n\n\n\n\n\n\n\n\n\n\nNov 28, 2022\n\n\nAbel Alvarez\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nNov 25, 2022\n\n\nAbel Alvarez\n\n\n\n\n\n\nNo matching items"
+    "text": "Apuntes\n\n\n\n\n\n\n\n\n\n\n\nJan 23, 2023\n\n\nAbel Alvarez\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nApuntes\n\n\n\n\n\n\n\n\n\n\n\nJan 23, 2023\n\n\nAbel Alvarez\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nApuntes\n\n\n\n\n\n\n\n\n\n\n\nJan 23, 2023\n\n\nAbel Alvarez\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nFotos\n\n\n\n\n\n\n\n\n\n\n\nNov 28, 2022\n\n\nAbel Alvarez\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nNov 25, 2022\n\n\nAbel Alvarez\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/Linear_algebra/posts/welcome/index.html",
+    "href": "posts/Linear_algebra/posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "Since this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/Linear_algebra/posts/post-with-code/index.html",
+    "href": "posts/Linear_algebra/posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "posts/Linear_algebra/about.html",
+    "href": "posts/Linear_algebra/about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/Linear_algebra/index.html#multiplicación-usando-columnas-ax",
+    "href": "posts/Linear_algebra/index.html#multiplicación-usando-columnas-ax",
+    "title": "Linear_algebra",
+    "section": "Multiplicación usando columnas \\(Ax\\)",
+    "text": "Multiplicación usando columnas \\(Ax\\)"
+  },
+  {
+    "objectID": "posts/Linear_algebra/index.html#cuatro-espacios-vectoriales-fundamentales",
+    "href": "posts/Linear_algebra/index.html#cuatro-espacios-vectoriales-fundamentales",
+    "title": "Linear_algebra",
+    "section": "Cuatro espacios vectoriales fundamentales",
+    "text": "Cuatro espacios vectoriales fundamentales"
+  },
+  {
+    "objectID": "posts/Linear_algebra/index.html#norma-de-vectores-matrices-y-funciones",
+    "href": "posts/Linear_algebra/index.html#norma-de-vectores-matrices-y-funciones",
+    "title": "Linear_algebra",
+    "section": "Norma de vectores, matrices y funciones",
+    "text": "Norma de vectores, matrices y funciones\n\nk-mean clustering"
+  },
+  {
+    "objectID": "posts/Linear_algebra/index.html#pca",
+    "href": "posts/Linear_algebra/index.html#pca",
+    "title": "Linear_algebra",
+    "section": "PCA",
+    "text": "PCA"
+  },
+  {
+    "objectID": "posts/Linear_algebra/presentation/presentation_1.html",
+    "href": "posts/Linear_algebra/presentation/presentation_1.html",
+    "title": "Linear algebra",
+    "section": "",
+    "text": "Spaces of vectors and matrices\nMultiplication \\(Ax\\) using Columns of \\(A\\)\nLinear transformations\n\nThe four fundamental subspaces\n\nOrthogonal matrices abd subspaces\nEigenvalues and eigenvectors\n\nGram-Schmidt process\nFactization QR\n\n\n\n\n\n\nSimentric definite positive matrices\nSingular value decomposition SVD\n\nPage rank\n\nPCA\n\nClsification of images\n\nRayleigh quotient and generalized Eigenvalues\nNorms of vectors and Functions Matrices\n\nk-means\n\nFactoring Matrices and Tensor\n\n\n\n\n\nLeast squares: Four ways\n\nAplications\n\nRandomized Lienar Algebra"
+  },
+  {
+    "objectID": "posts/Linear_algebra/presentation/presentation_1.html#properties-of-vector-spaces",
+    "href": "posts/Linear_algebra/presentation/presentation_1.html#properties-of-vector-spaces",
+    "title": "Linear algebra",
+    "section": "Properties of vector spaces",
+    "text": "Properties of vector spaces\n\nDefinition 1 (Linear combination) Let \\(u,v \\in V, a,b \\in F \\Rightarrow a u + b v \\in V\\)\n\n\nGive a subset \\(S\\) of a vector space \\(V\\), the set of all linear combinations of elements of \\(S\\) is also a vector space. This set is called the span of \\(S\\) and is denoted by \\(\\text{span}(S)\\).\n\n\nDefinition 2 (Subspace) The subset \\(W\\) of \\(V\\) is a subspace of \\(V\\) if \\(W\\) is a vector space.\n\n\nTheorem 1 The set \\(W\\) is a subspace of \\(V\\) if and only if \\(W\\) satisfies clausure property under addition and scalar multiplication."
+  },
+  {
+    "objectID": "posts/edo/index.html",
+    "href": "posts/edo/index.html",
+    "title": "Apuntes de ecuaciones diferenciales ordinarias",
+    "section": "",
+    "text": "En esta página encontraras algunos apuntes para la clase de ecuaciones diferenciales ordinarias."
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -28,9 +98,23 @@
     "text": "Professor Abel concentrates his research on mathematical modeling and computer methods for the numerical solution of fluid dynamic equations in heterogeneous porous media. His research focuses on the creation of novel numerical methods for solving hyperbolic partial differential equations, with applications to nonconventional one and two-dimensional transport systems. This type of research has numerous engineering applications, such as increased oil recovery, aquifer cleansing, and epidemic modeling."
   },
   {
-    "objectID": "posts/edo/index.html",
-    "href": "posts/edo/index.html",
-    "title": "Apuntes de ecuaciones diferenciales ordinarias",
+    "objectID": "posts/simulation_fem/cal.html",
+    "href": "posts/simulation_fem/cal.html",
+    "title": "Untitled",
+    "section": "",
+    "text": "<sympy.plotting.plot.Plot at 0x7ff92bd1ba00>"
+  },
+  {
+    "objectID": "posts/algebra_lineal/index.html",
+    "href": "posts/algebra_lineal/index.html",
+    "title": "Apuntes de ecuaciones Algebra Lineal",
+    "section": "",
+    "text": "Aqui usted encontrara los apuntes de ecuaciones algebra lineal"
+  },
+  {
+    "objectID": "posts/sumulation_fem/index.html",
+    "href": "posts/sumulation_fem/index.html",
+    "title": "Apuntes de simulación II",
     "section": "",
     "text": "En esta página encontraras algunos apuntes para la clase de ecuaciones diferenciales ordinarias."
   }

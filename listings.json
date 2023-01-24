@@ -2,9 +2,18 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/algebra_lineal/index.html",
       "/posts/edo/index.html",
+      "/posts/sumulation_fem/index.html",
       "/posts/post-with-code/index.html",
       "/posts/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/posts/Linear_algebra/index.html",
+    "items": [
+      "/posts/Linear_algebra/posts/post-with-code/index.html",
+      "/posts/Linear_algebra/posts/welcome/index.html"
     ]
   }
 ]
